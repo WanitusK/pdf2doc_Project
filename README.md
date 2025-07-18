@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📄 pdf2doc_Project
 
 เว็บแอปสำหรับแปลงไฟล์ PDF เป็น Word (DOCX)  
@@ -30,3 +31,6 @@
 ```bash
 git clone https://github.com/WanitusK/pdf2doc_Project.git
 cd pdf2doc_Project
+=======
+# pdf2doc_Project
+>>>>>>> 15f2e07246bccbf7331bd4333739975473ef3612
