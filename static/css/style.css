@@ -1,0 +1,24 @@
+body {
+    background-color: #f0f8ff; /* สีฟ้าอ่อน */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333333; /* สีข้อความ */
+    padding: 20px;
+}
+
+h1 {
+    color: #1e90ff; /* สีน้ำเงิน */
+}
+
+button {
+    background-color: #4CAF50; /* สีเขียว */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049; /* สีเขียวเข้มตอน hover */
+}

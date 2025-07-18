@@ -2,7 +2,6 @@
 <html>
 <head>
   <title>แปลง PDF เป็น Word</title>
-  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
   <h1>อัปโหลด PDF เพื่อแปลงเป็น Word</h1>
